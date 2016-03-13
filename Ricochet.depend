@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457826970 source:d:\programmig\githubclone\ricochet\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<string>
+	<sstream>
+	<boost/date_time/gregorian/gregorian.hpp>
+	<boost/lexical_cast.hpp>
+
