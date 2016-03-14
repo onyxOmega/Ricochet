@@ -1,0 +1,2 @@
+All simulations are averaged over 10000 trials on an 8 year virtual timeline.
+

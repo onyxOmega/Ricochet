@@ -1,0 +1,596 @@
+All simulations are averaged over 10000 trials on an 8 year virtual timeline.
+
+Starting with 3000
+Highest final Net Worth: 759014
+Highest ROI: 25200.5%
+Lowest final Net Worth: 159.751
+Lowest ROI: -94.675%
+Average final Net Worth: 37554.6
+Average ROI: 1151.82%
+Number of simulations resulting in a net loss: 32
+Number of simulations earning over a million dollars in 8 years: 0
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 3500
+Highest final Net Worth: 707590
+Highest ROI: 20116.9%
+Lowest final Net Worth: 2024.17
+Lowest ROI: -42.1664%
+Average final Net Worth: 47850
+Average ROI: 1267.14%
+Number of simulations resulting in a net loss: 11
+Number of simulations earning over a million dollars in 8 years: 0
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 4000
+Highest final Net Worth: 774239
+Highest ROI: 19256%
+Lowest final Net Worth: 3369.28
+Lowest ROI: -15.7681%
+Average final Net Worth: 57762.5
+Average ROI: 1344.06%
+Number of simulations resulting in a net loss: 2
+Number of simulations earning over a million dollars in 8 years: 0
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 4500
+Highest final Net Worth: 1.41488e+06
+Highest ROI: 31341.8%
+Lowest final Net Worth: 2366.8
+Lowest ROI: -47.4044%
+Average final Net Worth: 67741.7
+Average ROI: 1405.37%
+Number of simulations resulting in a net loss: 2
+Number of simulations earning over a million dollars in 8 years: 1
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 5000
+Highest final Net Worth: 1.25529e+06
+Highest ROI: 25005.7%
+Lowest final Net Worth: 6677.97
+Lowest ROI: 33.5595%
+Average final Net Worth: 76992.8
+Average ROI: 1439.86%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 2
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 5500
+Highest final Net Worth: 1.78362e+06
+Highest ROI: 32329.5%
+Lowest final Net Worth: 3385.09
+Lowest ROI: -38.4529%
+Average final Net Worth: 86632.2
+Average ROI: 1475.13%
+Number of simulations resulting in a net loss: 1
+Number of simulations earning over a million dollars in 8 years: 2
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 6000
+Highest final Net Worth: 1.89967e+06
+Highest ROI: 31561.1%
+Lowest final Net Worth: 7528.23
+Lowest ROI: 25.4705%
+Average final Net Worth: 96658.4
+Average ROI: 1510.97%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 3
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 6500
+Highest final Net Worth: 1.47321e+06
+Highest ROI: 22564.8%
+Lowest final Net Worth: 10888.1
+Lowest ROI: 67.5098%
+Average final Net Worth: 106010
+Average ROI: 1530.93%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 6
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 7000
+Highest final Net Worth: 2.62116e+06
+Highest ROI: 37345.1%
+Lowest final Net Worth: 9710.92
+Lowest ROI: 38.7274%
+Average final Net Worth: 117134
+Average ROI: 1573.35%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 11
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 7500
+Highest final Net Worth: 2.16967e+06
+Highest ROI: 28828.9%
+Lowest final Net Worth: 6134.69
+Lowest ROI: -18.2041%
+Average final Net Worth: 127006
+Average ROI: 1593.41%
+Number of simulations resulting in a net loss: 1
+Number of simulations earning over a million dollars in 8 years: 14
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 8000
+Highest final Net Worth: 2.78415e+06
+Highest ROI: 34701.8%
+Lowest final Net Worth: 14448
+Lowest ROI: 80.6002%
+Average final Net Worth: 136770
+Average ROI: 1609.63%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 15
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 8500
+Highest final Net Worth: 2.20562e+06
+Highest ROI: 25848.5%
+Lowest final Net Worth: 14301.5
+Lowest ROI: 68.2535%
+Average final Net Worth: 145681
+Average ROI: 1613.89%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 22
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 9000
+Highest final Net Worth: 3.23225e+06
+Highest ROI: 35813.9%
+Lowest final Net Worth: 15300.7
+Lowest ROI: 70.0073%
+Average final Net Worth: 156357
+Average ROI: 1637.3%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 33
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 9500
+Highest final Net Worth: 2.0861e+06
+Highest ROI: 21858.9%
+Lowest final Net Worth: 14508.5
+Lowest ROI: 52.7207%
+Average final Net Worth: 164575
+Average ROI: 1632.37%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 32
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 10000
+Highest final Net Worth: 3.33315e+06
+Highest ROI: 33231.5%
+Lowest final Net Worth: 12836.5
+Lowest ROI: 28.3652%
+Average final Net Worth: 177245
+Average ROI: 1672.45%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 47
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 10500
+Highest final Net Worth: 4.49921e+06
+Highest ROI: 42749.7%
+Lowest final Net Worth: 17098.6
+Lowest ROI: 62.8439%
+Average final Net Worth: 186389
+Average ROI: 1675.13%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 49
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 11000
+Highest final Net Worth: 2.88108e+06
+Highest ROI: 26091.7%
+Lowest final Net Worth: 21411.3
+Lowest ROI: 94.6486%
+Average final Net Worth: 196145
+Average ROI: 1683.14%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 58
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 11500
+Highest final Net Worth: 2.41683e+06
+Highest ROI: 20915.9%
+Lowest final Net Worth: 23384.5
+Lowest ROI: 103.344%
+Average final Net Worth: 202035
+Average ROI: 1656.83%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 57
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 12000
+Highest final Net Worth: 2.40439e+06
+Highest ROI: 19936.6%
+Lowest final Net Worth: 26264.2
+Lowest ROI: 118.869%
+Average final Net Worth: 215036
+Average ROI: 1691.97%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 77
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 12500
+Highest final Net Worth: 3.0339e+06
+Highest ROI: 24171.2%
+Lowest final Net Worth: 17641.8
+Lowest ROI: 41.134%
+Average final Net Worth: 223967
+Average ROI: 1691.74%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 86
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 13000
+Highest final Net Worth: 5.1361e+06
+Highest ROI: 39408.4%
+Lowest final Net Worth: 23925.9
+Lowest ROI: 84.0452%
+Average final Net Worth: 238858
+Average ROI: 1737.37%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 120
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 13500
+Highest final Net Worth: 4.31859e+06
+Highest ROI: 31889.6%
+Lowest final Net Worth: 14879.9
+Lowest ROI: 10.2218%
+Average final Net Worth: 246761
+Average ROI: 1727.86%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 117
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 14000
+Highest final Net Worth: 3.36432e+06
+Highest ROI: 23930.9%
+Lowest final Net Worth: 26595.9
+Lowest ROI: 89.9705%
+Average final Net Worth: 255837
+Average ROI: 1727.41%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 129
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 14500
+Highest final Net Worth: 3.75718e+06
+Highest ROI: 25811.6%
+Lowest final Net Worth: 25466.3
+Lowest ROI: 75.6293%
+Average final Net Worth: 267020
+Average ROI: 1741.52%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 185
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 15000
+Highest final Net Worth: 3.31372e+06
+Highest ROI: 21991.4%
+Lowest final Net Worth: 30452.4
+Lowest ROI: 103.016%
+Average final Net Worth: 273808
+Average ROI: 1725.38%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 157
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 15500
+Highest final Net Worth: 5.10073e+06
+Highest ROI: 32807.9%
+Lowest final Net Worth: 22521.2
+Lowest ROI: 45.2983%
+Average final Net Worth: 287650
+Average ROI: 1755.81%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 182
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 16000
+Highest final Net Worth: 6.49184e+06
+Highest ROI: 40474%
+Lowest final Net Worth: 28968.6
+Lowest ROI: 81.0537%
+Average final Net Worth: 298262
+Average ROI: 1764.14%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 229
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 16500
+Highest final Net Worth: 4.29887e+06
+Highest ROI: 25953.7%
+Lowest final Net Worth: 25328.7
+Lowest ROI: 53.5071%
+Average final Net Worth: 301954
+Average ROI: 1730.02%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 219
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 17000
+Highest final Net Worth: 4.69649e+06
+Highest ROI: 27526.4%
+Lowest final Net Worth: 30340.9
+Lowest ROI: 78.4757%
+Average final Net Worth: 318138
+Average ROI: 1771.4%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 261
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 17500
+Highest final Net Worth: 6.38277e+06
+Highest ROI: 36373%
+Lowest final Net Worth: 34258.8
+Lowest ROI: 95.7643%
+Average final Net Worth: 330214
+Average ROI: 1786.94%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 290
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 18000
+Highest final Net Worth: 7.31413e+06
+Highest ROI: 40534%
+Lowest final Net Worth: 28878.6
+Lowest ROI: 60.4367%
+Average final Net Worth: 337421
+Average ROI: 1774.56%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 324
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 18500
+Highest final Net Worth: 4.99677e+06
+Highest ROI: 26909.6%
+Lowest final Net Worth: 40962.9
+Lowest ROI: 121.421%
+Average final Net Worth: 341391
+Average ROI: 1745.36%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 308
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 19000
+Highest final Net Worth: 4.16309e+06
+Highest ROI: 21811%
+Lowest final Net Worth: 38693
+Lowest ROI: 103.647%
+Average final Net Worth: 352314
+Average ROI: 1754.29%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 320
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 19500
+Highest final Net Worth: 9.28637e+06
+Highest ROI: 47522.4%
+Lowest final Net Worth: 44371.4
+Lowest ROI: 127.546%
+Average final Net Worth: 367748
+Average ROI: 1785.89%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 388
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 20000
+Highest final Net Worth: 7.37432e+06
+Highest ROI: 36771.6%
+Lowest final Net Worth: 40476.3
+Lowest ROI: 102.381%
+Average final Net Worth: 375005
+Average ROI: 1775.03%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 401
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 20500
+Highest final Net Worth: 6.07498e+06
+Highest ROI: 29534%
+Lowest final Net Worth: 41219
+Lowest ROI: 101.068%
+Average final Net Worth: 381961
+Average ROI: 1763.23%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 400
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 21000
+Highest final Net Worth: 5.88039e+06
+Highest ROI: 27901.8%
+Lowest final Net Worth: 31711.7
+Lowest ROI: 51.0083%
+Average final Net Worth: 388534
+Average ROI: 1750.16%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 404
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 21500
+Highest final Net Worth: 5.10899e+06
+Highest ROI: 23662.7%
+Lowest final Net Worth: 47093.3
+Lowest ROI: 119.038%
+Average final Net Worth: 396314
+Average ROI: 1743.32%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 425
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 22000
+Highest final Net Worth: 7.52009e+06
+Highest ROI: 34082.2%
+Lowest final Net Worth: 44085.6
+Lowest ROI: 100.389%
+Average final Net Worth: 408768
+Average ROI: 1758.04%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 487
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 22500
+Highest final Net Worth: 5.11401e+06
+Highest ROI: 22628.9%
+Lowest final Net Worth: 37363.5
+Lowest ROI: 66.0601%
+Average final Net Worth: 427053
+Average ROI: 1798.02%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 561
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 23000
+Highest final Net Worth: 4.91144e+06
+Highest ROI: 21254.1%
+Lowest final Net Worth: 48474.9
+Lowest ROI: 110.761%
+Average final Net Worth: 436573
+Average ROI: 1798.14%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 581
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 23500
+Highest final Net Worth: 8.39332e+06
+Highest ROI: 35616.3%
+Lowest final Net Worth: 50764
+Lowest ROI: 116.017%
+Average final Net Worth: 436346
+Average ROI: 1756.79%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 592
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 24000
+Highest final Net Worth: 5.671e+06
+Highest ROI: 23529.2%
+Lowest final Net Worth: 57270.9
+Lowest ROI: 138.629%
+Average final Net Worth: 458286
+Average ROI: 1809.52%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 642
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 24500
+Highest final Net Worth: 5.3704e+06
+Highest ROI: 21820%
+Lowest final Net Worth: 47392.9
+Lowest ROI: 93.4404%
+Average final Net Worth: 459039
+Average ROI: 1773.63%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 670
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 25000
+Highest final Net Worth: 5.69045e+06
+Highest ROI: 22661.8%
+Lowest final Net Worth: 49422.4
+Lowest ROI: 97.6897%
+Average final Net Worth: 475278
+Average ROI: 1801.11%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 722
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 25500
+Highest final Net Worth: 7.38309e+06
+Highest ROI: 28853.3%
+Lowest final Net Worth: 60086.2
+Lowest ROI: 135.632%
+Average final Net Worth: 479730
+Average ROI: 1781.3%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 727
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 26000
+Highest final Net Worth: 7.23991e+06
+Highest ROI: 27745.8%
+Lowest final Net Worth: 54183
+Lowest ROI: 108.396%
+Average final Net Worth: 495043
+Average ROI: 1804.01%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 798
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 26500
+Highest final Net Worth: 8.91994e+06
+Highest ROI: 33560.1%
+Lowest final Net Worth: 43249.2
+Lowest ROI: 63.2045%
+Average final Net Worth: 502806
+Average ROI: 1797.38%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 798
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 27000
+Highest final Net Worth: 7.92369e+06
+Highest ROI: 29247%
+Lowest final Net Worth: 60028.3
+Lowest ROI: 122.327%
+Average final Net Worth: 508011
+Average ROI: 1781.52%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 841
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 27500
+Highest final Net Worth: 7.22469e+06
+Highest ROI: 26171.6%
+Lowest final Net Worth: 58151.3
+Lowest ROI: 111.459%
+Average final Net Worth: 522863
+Average ROI: 1801.32%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 893
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 28000
+Highest final Net Worth: 7.99828e+06
+Highest ROI: 28465.3%
+Lowest final Net Worth: 55992
+Lowest ROI: 99.9716%
+Average final Net Worth: 533818
+Average ROI: 1806.49%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 965
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 28500
+Highest final Net Worth: 9.39735e+06
+Highest ROI: 32873.2%
+Lowest final Net Worth: 61202
+Lowest ROI: 114.744%
+Average final Net Worth: 539592
+Average ROI: 1793.31%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 944
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 29000
+Highest final Net Worth: 8.32493e+06
+Highest ROI: 28606.7%
+Lowest final Net Worth: 62995.7
+Lowest ROI: 117.227%
+Average final Net Worth: 549322
+Average ROI: 1794.21%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 1014
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+
+Starting with 29500
+Highest final Net Worth: 1.36492e+07
+Highest ROI: 46168.5%
+Lowest final Net Worth: 65933.8
+Lowest ROI: 123.504%
+Average final Net Worth: 560389
+Average ROI: 1799.62%
+Number of simulations resulting in a net loss: 0
+Number of simulations earning over a million dollars in 8 years: 1010
+Probablility of becoming a millionaire in 8 years with this strategy: 0
+

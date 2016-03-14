@@ -1,0 +1,740 @@
+Trans #1:   TXN
+  Bought:  1/25/2008, 202 shares at $24.6647 for $4991.26
+  Sold:       2/5/2008 at $25.3975 for $5121.29
+  Net Gain/Loss: $130.025
+
+Trans #2:   ARG
+  Bought:   2/6/2008, 125 shares at $40.8482 for $5115.02
+  Sold:       3/3/2008 at $42.8305 for $5344.81
+  Net Gain/Loss: $229.794
+
+Trans #3:     A
+  Bought:   3/4/2008, 182 shares at $29.3089 for $5343.23
+  Sold:      3/10/2008 at $28.5135 for $5180.46
+  Net Gain/Loss: $-162.764
+
+Trans #4:   BAX
+  Bought:  3/11/2008, 106 shares at $48.7876 for $5180.48
+  Sold:      3/17/2008 at $47.3486 for $5009.95
+  Net Gain/Loss: $-170.531
+
+Trans #5:   TDC
+  Bought:  3/18/2008, 211 shares at $23.73 for $5016.03
+  Sold:      3/19/2008 at $23.0181 for $4847.82
+  Net Gain/Loss: $-168.211
+
+Trans #6:    WU
+  Bought:  3/20/2008, 256 shares at $18.8732 for $4840.53
+  Sold:      3/26/2008 at $18.4071 for $4703.21
+  Net Gain/Loss: $-137.325
+
+Trans #7:  INTC
+  Bought:  3/27/2008, 284 shares at $16.5668 for $4713.97
+  Sold:       4/8/2008 at $16.7403 for $4745.25
+  Net Gain/Loss: $31.2806
+
+Trans #8:   COG
+  Bought:   4/9/2008, 330 shares at $14.3565 for $4746.64
+  Sold:      4/22/2008 at $14.72 for $4848.59
+  Net Gain/Loss: $101.951
+
+Trans #9:   TXN
+  Bought:  4/23/2008, 200 shares at $24.1395 for $4836.9
+  Sold:       6/3/2008 at $26.438 for $5278.6
+  Net Gain/Loss: $441.703
+
+Trans #10:   TDC
+  Bought:   6/4/2008, 203 shares at $26.04 for $5295.12
+  Sold:       6/6/2008 at $25.4625 for $5159.89
+  Net Gain/Loss: $-135.233
+
+Trans #11:   HAS
+  Bought:   6/9/2008, 168 shares at $30.5325 for $5138.47
+  Sold:      6/11/2008 at $30.1097 for $5049.42
+  Net Gain/Loss: $-89.0439
+
+Trans #12:   TXN
+  Bought:  6/12/2008, 205 shares at $24.6301 for $5058.18
+  Sold:      6/23/2008 at $24.4006 for $4993.12
+  Net Gain/Loss: $-65.0573
+
+Trans #13:     A
+  Bought:  6/24/2008, 142 shares at $35.188 for $5005.7
+  Sold:      6/26/2008 at $34.4212 for $4878.82
+  Net Gain/Loss: $-126.882
+
+Trans #14:   MYL
+  Bought:  6/27/2008, 400 shares at $12.16 for $4873
+  Sold:       7/7/2008 at $11.7952 for $4709.08
+  Net Gain/Loss: $-163.92
+
+Trans #15:   TDC
+  Bought:   7/8/2008, 204 shares at $23.02 for $4705.08
+  Sold:      7/11/2008 at $22.3294 for $4546.2
+  Net Gain/Loss: $-158.882
+
+Trans #16:  INTC
+  Bought:  7/14/2008, 281 shares at $16.1766 for $4554.62
+  Sold:      8/19/2008 at $18.9101 for $5304.75
+  Net Gain/Loss: $750.126
+
+Trans #17:     A
+  Bought:  8/20/2008, 158 shares at $33.4301 for $5290.95
+  Sold:       9/3/2008 at $33.0888 for $5219.02
+  Net Gain/Loss: $-71.9275
+
+Trans #18:   CLX
+  Bought:   9/4/2008, 105 shares at $49.3237 for $5187.99
+  Sold:      9/22/2008 at $49.4685 for $5185.19
+  Net Gain/Loss: $-2.80215
+
+Trans #19:  ORCL
+  Bought:  9/23/2008, 284 shares at $18.3515 for $5220.82
+  Sold:      9/29/2008 at $18.6417 for $5285.24
+  Net Gain/Loss: $64.4256
+
+Trans #20:   BAX
+  Bought:  9/30/2008, 94 shares at $55.9852 for $5271.61
+  Sold:      10/6/2008 at $55.6875 for $5225.63
+  Net Gain/Loss: $-45.9849
+
+Trans #21:   TXN
+  Bought:  10/7/2008, 321 shares at $16.3203 for $5247.82
+  Sold:      10/9/2008 at $15.8307 for $5072.65
+  Net Gain/Loss: $-175.165
+
+Trans #22:   ETR
+  Bought: 10/10/2008, 102 shares at $49.4764 for $5055.59
+  Sold:     10/15/2008 at $55.7693 for $5679.47
+  Net Gain/Loss: $623.875
+
+Trans #23:   TDC
+  Bought: 10/16/2008, 325 shares at $17.49 for $5693.25
+  Sold:     10/17/2008 at $16.9653 for $5504.72
+  Net Gain/Loss: $-188.527
+
+Trans #24:   COG
+  Bought: 10/20/2008, 770 shares at $7.14079 for $5507.4
+  Sold:     10/22/2008 at $6.92656 for $5324.45
+  Net Gain/Loss: $-182.952
+
+Trans #25:     A
+  Bought: 10/23/2008, 267 shares at $19.9043 for $5323.46
+  Sold:     10/24/2008 at $19.3072 for $5146.02
+  Net Gain/Loss: $-177.434
+
+Trans #26:    EA
+  Bought: 10/27/2008, 225 shares at $22.8 for $5139
+  Sold:     10/31/2008 at $27.1988 for $6110.73
+  Net Gain/Loss: $971.73
+
+Trans #27:   COG
+  Bought:  11/3/2008, 930 shares at $6.56675 for $6116.08
+  Sold:      11/5/2008 at $6.82816 for $6341.19
+  Net Gain/Loss: $225.11
+
+Trans #28:   TXN
+  Bought:  11/6/2008, 439 shares at $14.4322 for $6344.72
+  Sold:     11/12/2008 at $14.0645 for $6165.33
+  Net Gain/Loss: $-179.387
+
+Trans #29:   ARG
+  Bought: 11/13/2008, 187 shares at $32.8381 for $6149.72
+  Sold:     11/14/2008 at $31.8529 for $5947.5
+  Net Gain/Loss: $-202.222
+
+Trans #30:   MYL
+  Bought: 11/17/2008, 678 shares at $8.78 for $5961.84
+  Sold:     11/19/2008 at $8.5263 for $5771.83
+  Net Gain/Loss: $-190.009
+
+Trans #31:     A
+  Bought: 11/20/2008, 370 shares at $15.5623 for $5767.04
+  Sold:      12/1/2008 at $17.5461 for $6483.05
+  Net Gain/Loss: $716.008
+
+Trans #32:   AMT
+  Bought:  12/2/2008, 254 shares at $25.5142 for $6489.61
+  Sold:      12/9/2008 at $26.9705 for $6841.51
+  Net Gain/Loss: $351.905
+
+Trans #33:    WU
+  Bought: 12/10/2008, 588 shares at $11.6162 for $6839.35
+  Sold:     12/22/2008 at $11.8349 for $6949.92
+  Net Gain/Loss: $110.568
+
+Trans #34:   CLX
+  Bought: 12/23/2008, 160 shares at $43.2197 for $6924.16
+  Sold:       1/7/2009 at $43.9748 for $7026.97
+  Net Gain/Loss: $102.816
+
+Trans #35:    WU
+  Bought:   1/8/2009, 533 shares at $13.2189 for $7054.69
+  Sold:      1/12/2009 at $12.8224 for $6825.32
+  Net Gain/Loss: $-229.371
+
+Trans #36:   BAX
+  Bought:  1/13/2009, 150 shares at $45.3592 for $6812.88
+  Sold:      2/10/2009 at $50.3101 for $7537.51
+  Net Gain/Loss: $724.627
+
+Trans #37:    EA
+  Bought:  2/11/2009, 442 shares at $17.03 for $7536.26
+  Sold:      2/17/2009 at $16.5191 for $7292.44
+  Net Gain/Loss: $-243.818
+
+Trans #38:  ORCL
+  Bought:  2/18/2009, 454 shares at $16.068 for $7303.88
+  Sold:      2/20/2009 at $15.586 for $7067.04
+  Net Gain/Loss: $-236.846
+
+Trans #39:   TXN
+  Bought:  2/23/2009, 566 shares at $12.4567 for $7059.47
+  Sold:      2/26/2009 at $12.6341 for $7141.88
+  Net Gain/Loss: $82.4056
+
+Trans #40:   HAS
+  Bought:  2/27/2009, 385 shares at $18.5549 for $7152.64
+  Sold:       3/5/2009 at $17.9983 for $6920.33
+  Net Gain/Loss: $-232.309
+
+Trans #41:   ARG
+  Bought:   3/6/2009, 285 shares at $24.1711 for $6897.77
+  Sold:      3/20/2009 at $30.129 for $8577.78
+  Net Gain/Loss: $1680
+
+Trans #42:   BAX
+  Bought:  3/23/2009, 194 shares at $44.1475 for $8573.62
+  Sold:      3/26/2009 at $42.8231 for $8298.68
+  Net Gain/Loss: $-274.939
+
+Trans #43:   CLX
+  Bought:  3/27/2009, 198 shares at $41.9734 for $8319.73
+  Sold:       5/4/2009 at $44.5045 for $8802.89
+  Net Gain/Loss: $483.162
+
+Trans #44:   HAS
+  Bought:   5/5/2009, 377 shares at $23.313 for $8798.02
+  Sold:       5/7/2009 at $22.6137 for $8516.35
+  Net Gain/Loss: $-281.671
+
+Trans #45:   BAX
+  Bought:   5/8/2009, 196 shares at $43.3032 for $8496.42
+  Sold:      5/18/2009 at $42.8147 for $8382.69
+  Net Gain/Loss: $-113.733
+
+Trans #46:   ETR
+  Bought:  5/19/2009, 150 shares at $55.8255 for $8382.83
+  Sold:      5/21/2009 at $54.1508 for $8113.62
+  Net Gain/Loss: $-269.215
+
+Trans #47:  ORCL
+  Bought:  5/22/2009, 466 shares at $17.4277 for $8130.29
+  Sold:      6/15/2009 at $19.0259 for $8857.05
+  Net Gain/Loss: $726.763
+
+Trans #48:   BAX
+  Bought:  6/16/2009, 213 shares at $41.4485 for $8837.53
+  Sold:      10/1/2009 at $49.419 for $10517.2
+  Net Gain/Loss: $1679.72
+
+Trans #49:    WU
+  Bought:  10/2/2009, 672 shares at $15.6678 for $10537.8
+  Sold:     10/21/2009 at $16.6114 for $11153.8
+  Net Gain/Loss: $616.045
+
+Trans #50:   MYL
+  Bought: 10/22/2009, 675 shares at $16.51 for $11153.3
+  Sold:     10/26/2009 at $16.0147 for $10800.9
+  Net Gain/Loss: $-352.328
+
+Trans #51:  INTC
+  Bought: 10/27/2009, 664 shares at $16.2587 for $10804.8
+  Sold:     10/28/2009 at $15.7709 for $10462.9
+  Net Gain/Loss: $-341.873
+
+Trans #52:   ARG
+  Bought: 10/29/2009, 251 shares at $41.6197 for $10455.5
+  Sold:     10/30/2009 at $40.3711 for $10124.1
+  Net Gain/Loss: $-331.396
+
+Trans #53:   CLX
+  Bought:  11/2/2009, 204 shares at $49.4507 for $10097
+  Sold:      1/22/2010 at $50.5998 for $10313.4
+  Net Gain/Loss: $216.401
+
+Trans #54:   ARG
+  Bought:  1/25/2010, 235 shares at $44.011 for $10351.6
+  Sold:      1/28/2010 at $42.6907 for $10023.3
+  Net Gain/Loss: $-328.277
+
+Trans #55:     A
+  Bought:  1/29/2010, 372 shares at $26.9266 for $10025.7
+  Sold:       5/4/2010 at $34.6915 for $12896.2
+  Net Gain/Loss: $2870.54
+
+Trans #56:   HAS
+  Bought:   5/5/2010, 388 shares at $33.1497 for $12871.1
+  Sold:      5/13/2010 at $34.5159 for $13383.2
+  Net Gain/Loss: $512.113
+
+Trans #57:   TDC
+  Bought:  5/14/2010, 414 shares at $32.3 for $13381.2
+  Sold:      5/20/2010 at $31.331 for $12962
+  Net Gain/Loss: $-419.166
+
+Trans #58:    EA
+  Bought:  5/21/2010, 777 shares at $16.7 for $12984.9
+  Sold:       6/1/2010 at $16.2184 for $12592.7
+  Net Gain/Loss: $-392.203
+
+Trans #59:   MYL
+  Bought:   6/2/2010, 664 shares at $18.95 for $12591.8
+  Sold:       6/8/2010 at $18.3815 for $12196.3
+  Net Gain/Loss: $-395.484
+
+Trans #60:  INTC
+  Bought:   6/9/2010, 726 shares at $16.7904 for $12198.8
+  Sold:      6/23/2010 at $17.586 for $12758.4
+  Net Gain/Loss: $559.625
+
+Trans #61:   CLX
+  Bought:  6/24/2010, 235 shares at $54.1211 for $12727.5
+  Sold:       7/2/2010 at $52.4975 for $12327.9
+  Net Gain/Loss: $-399.554
+
+Trans #62:  INTC
+  Bought:   7/6/2010, 752 shares at $16.4113 for $12350.3
+  Sold:      7/29/2010 at $17.7985 for $13375.5
+  Net Gain/Loss: $1025.18
+
+Trans #63:   TDC
+  Bought:  7/30/2010, 420 shares at $31.8 for $13365
+  Sold:       8/5/2010 at $33.1158 for $13899.6
+  Net Gain/Loss: $534.636
+
+Trans #64:    WU
+  Bought:   8/6/2010, 980 shares at $14.1936 for $13918.7
+  Sold:      8/13/2010 at $13.9791 for $13690.5
+  Net Gain/Loss: $-228.226
+
+Trans #65:   CLX
+  Bought:  8/16/2010, 249 shares at $54.8127 for $13657.4
+  Sold:      11/2/2010 at $56.8508 for $14146.9
+  Net Gain/Loss: $489.486
+
+Trans #66:   TXN
+  Bought:  11/3/2010, 538 shares at $26.3456 for $14182.9
+  Sold:     12/13/2010 at $28.7496 for $15458.3
+  Net Gain/Loss: $1275.37
+
+Trans #67:   CLX
+  Bought: 12/14/2010, 287 shares at $53.7627 for $15438.9
+  Sold:       1/3/2011 at $53.3094 for $15290.8
+  Net Gain/Loss: $-148.084
+
+Trans #68:    WU
+  Bought:   1/4/2011, 937 shares at $16.3324 for $15312.4
+  Sold:      2/23/2011 at $18.4388 for $17268.2
+  Net Gain/Loss: $1955.74
+
+Trans #69:   ARG
+  Bought:  2/24/2011, 301 shares at $57.2372 for $17237.4
+  Sold:      3/16/2011 at $56.9626 for $17136.7
+  Net Gain/Loss: $-100.677
+
+Trans #70:   HAS
+  Bought:  3/17/2011, 439 shares at $39.0735 for $17162.3
+  Sold:      4/12/2011 at $39.2428 for $17218.6
+  Net Gain/Loss: $56.3171
+
+Trans #71:    EA
+  Bought:  4/13/2011, 865 shares at $19.89 for $17213.9
+  Sold:       5/4/2011 at $19.9238 for $17225.1
+  Net Gain/Loss: $11.237
+
+Trans #72:   HAS
+  Bought:   5/5/2011, 423 shares at $40.6404 for $17199.9
+  Sold:      5/25/2011 at $40.2796 for $17029.3
+  Net Gain/Loss: $-170.61
+
+Trans #73:   CLX
+  Bought:  5/26/2011, 280 shares at $60.716 for $17009.5
+  Sold:       6/3/2011 at $59.7852 for $16730.8
+  Net Gain/Loss: $-278.627
+
+Trans #74:   AMT
+  Bought:   6/6/2011, 345 shares at $48.5971 for $16775
+  Sold:       6/8/2011 at $47.1392 for $16254
+  Net Gain/Loss: $-520.98
+
+Trans #75:   COG
+  Bought:   6/9/2011, 1104 shares at $14.7146 for $16253.9
+  Sold:      6/13/2011 at $14.2732 for $15748.6
+  Net Gain/Loss: $-505.348
+
+Trans #76:  INTC
+  Bought:  6/14/2011, 830 shares at $18.9673 for $15751.8
+  Sold:      7/12/2011 at $19.5871 for $16248.3
+  Net Gain/Loss: $496.492
+
+Trans #77:   COG
+  Bought:  7/13/2011, 1016 shares at $15.9795 for $16244.2
+  Sold:       8/2/2011 at $18.2426 for $18525.5
+  Net Gain/Loss: $2281.35
+
+Trans #78:  ORCL
+  Bought:   8/3/2011, 645 shares at $28.72 for $18533.4
+  Sold:       8/4/2011 at $27.8584 for $17959.7
+  Net Gain/Loss: $-573.732
+
+Trans #79:     A
+  Bought:   8/5/2011, 510 shares at $35.1496 for $17935.3
+  Sold:       8/8/2011 at $34.0951 for $17379.5
+  Net Gain/Loss: $-555.789
+
+Trans #80:    EA
+  Bought:   8/9/2011, 935 shares at $18.6 for $17400
+  Sold:      8/10/2011 at $18.042 for $16860.3
+  Net Gain/Loss: $-539.73
+
+Trans #81:   AMT
+  Bought:  8/11/2011, 363 shares at $46.3254 for $16825.1
+  Sold:      8/18/2011 at $46.8752 for $17006.7
+  Net Gain/Loss: $181.545
+
+Trans #82:   COG
+  Bought:  8/19/2011, 1031 shares at $16.5171 for $17038.1
+  Sold:       9/2/2011 at $18.4468 for $19009.6
+  Net Gain/Loss: $1971.56
+
+Trans #83:    EA
+  Bought:   9/6/2011, 868 shares at $21.89 for $19009.5
+  Sold:       9/9/2011 at $21.8735 for $18977.2
+  Net Gain/Loss: $-32.322
+
+Trans #84:   COG
+  Bought:  9/12/2011, 1097 shares at $17.2959 for $18982.6
+  Sold:      9/21/2011 at $17.506 for $19195.1
+  Net Gain/Loss: $212.524
+
+Trans #85:   TDC
+  Bought:  9/22/2011, 374 shares at $51.21 for $19161.5
+  Sold:      9/29/2011 at $55.4064 for $20713
+  Net Gain/Loss: $1551.45
+
+Trans #86:   ARG
+  Bought:  9/30/2011, 347 shares at $59.6312 for $20701
+  Sold:     10/31/2011 at $64.7394 for $22455.6
+  Net Gain/Loss: $1754.57
+
+Trans #87:   CLX
+  Bought:  11/1/2011, 384 shares at $58.5833 for $22505
+  Sold:     11/23/2011 at $56.8431 for $21818.7
+  Net Gain/Loss: $-686.253
+
+Trans #88:   BAX
+  Bought: 11/25/2011, 501 shares at $43.5324 for $21818.7
+  Sold:      12/8/2011 at $46.1288 for $23101.5
+  Net Gain/Loss: $1282.77
+
+Trans #89:  ORCL
+  Bought:  12/9/2011, 764 shares at $30.2074 for $23087.5
+  Sold:     12/14/2011 at $29.3012 for $22377.1
+  Net Gain/Loss: $-710.355
+
+Trans #90:   MYL
+  Bought: 12/15/2011, 1106 shares at $20.24 for $22394.4
+  Sold:       1/6/2012 at $21.4855 for $23754
+  Net Gain/Loss: $1359.52
+
+Trans #91:   COG
+  Bought:   1/9/2012, 1201 shares at $19.7608 for $23741.7
+  Sold:      1/11/2012 at $19.168 for $23011.7
+  Net Gain/Loss: $-729.981
+
+Trans #92:   CLX
+  Bought:  1/12/2012, 378 shares at $60.816 for $22997.4
+  Sold:      2/10/2012 at $60.8041 for $22974.9
+  Net Gain/Loss: $-22.4952
+
+Trans #93:   ARG
+  Bought:  2/13/2012, 309 shares at $74.3796 for $22992.3
+  Sold:      4/10/2012 at $82.7388 for $25557.3
+  Net Gain/Loss: $2564.98
+
+Trans #94:    WU
+  Bought:  4/11/2012, 1620 shares at $15.7755 for $25565.3
+  Sold:       5/3/2012 at $16.1732 for $26191.5
+  Net Gain/Loss: $626.217
+
+Trans #95:    EA
+  Bought:   5/4/2012, 1731 shares at $15.12 for $26181.7
+  Sold:       5/8/2012 at $14.6761 for $25395.3
+  Net Gain/Loss: $-786.391
+
+Trans #96:   HAS
+  Bought:   5/9/2012, 808 shares at $31.4085 for $25387.1
+  Sold:      5/17/2012 at $31.1646 for $25172
+  Net Gain/Loss: $-215.122
+
+Trans #97:   ARG
+  Bought:  5/18/2012, 320 shares at $78.4596 for $25116.1
+  Sold:       6/1/2012 at $81.0668 for $25932.4
+  Net Gain/Loss: $816.32
+
+Trans #98:   MYL
+  Bought:   6/4/2012, 1244 shares at $20.9 for $26008.6
+  Sold:      6/13/2012 at $20.9035 for $25995
+  Net Gain/Loss: $-13.646
+
+Trans #99:   BAX
+  Bought:  6/14/2012, 570 shares at $45.5865 for $25993.3
+  Sold:     11/27/2012 at $62.5388 for $35638.1
+  Net Gain/Loss: $9644.81
+
+Trans #100:   CLX
+  Bought: 11/28/2012, 514 shares at $69.23 for $35593.2
+  Sold:     12/21/2012 at $68.3144 for $35104.6
+  Net Gain/Loss: $-488.59
+
+Trans #101:   MYL
+  Bought: 12/24/2012, 1257 shares at $27.95 for $35142.2
+  Sold:     12/28/2012 at $27.1115 for $34070.2
+  Net Gain/Loss: $-1071.99
+
+Trans #102:   AMT
+  Bought: 12/31/2012, 460 shares at $73.9207 for $34012.5
+  Sold:      1/30/2013 at $74.1436 for $34097
+  Net Gain/Loss: $84.5342
+
+Trans #103:   CLX
+  Bought:  1/31/2013, 469 shares at $72.8154 for $34159.4
+  Sold:      4/26/2013 at $81.1807 for $38064.8
+  Net Gain/Loss: $3905.31
+
+Trans #104:   ARG
+  Bought:  4/29/2013, 409 shares at $92.8737 for $37994.3
+  Sold:       5/1/2013 at $90.0875 for $36836.8
+  Net Gain/Loss: $-1157.56
+
+Trans #105:  INTC
+  Bought:   5/2/2013, 1653 shares at $22.3147 for $36895.1
+  Sold:       6/7/2013 at $22.9812 for $37979
+  Net Gain/Loss: $1083.84
+
+Trans #106:   CLX
+  Bought:  6/10/2013, 480 shares at $79.0991 for $37976.6
+  Sold:      6/20/2013 at $78.1505 for $37503.2
+  Net Gain/Loss: $-473.323
+
+Trans #107:     A
+  Bought:  6/21/2013, 897 shares at $41.8157 for $37517.7
+  Sold:      7/29/2013 at $44.2902 for $39719.3
+  Net Gain/Loss: $2201.63
+
+Trans #108:   CLX
+  Bought:  7/30/2013, 489 shares at $81.1259 for $39679.5
+  Sold:      8/21/2013 at $79.0214 for $38632.5
+  Net Gain/Loss: $-1047.09
+
+Trans #109:   ARG
+  Bought:  8/22/2013, 387 shares at $99.7035 for $38594.2
+  Sold:      10/8/2013 at $102.647 for $39715.5
+  Net Gain/Loss: $1121.22
+
+Trans #110:   TDC
+  Bought:  10/9/2013, 754 shares at $52.75 for $39782.5
+  Sold:     10/15/2013 at $51.3615 for $38717.6
+  Net Gain/Loss: $-1064.93
+
+Trans #111:   COG
+  Bought: 10/16/2013, 1040 shares at $37.2346 for $38733
+  Sold:     10/17/2013 at $36.1175 for $37553.2
+  Net Gain/Loss: $-1179.72
+
+Trans #112:  ORCL
+  Bought: 10/18/2013, 1171 shares at $32.0378 for $37525.2
+  Sold:     12/12/2013 at $33.627 for $39368.2
+  Net Gain/Loss: $1842.99
+
+Trans #113:   CLX
+  Bought: 12/13/2013, 444 shares at $88.6337 for $39362.4
+  Sold:       1/7/2014 at $86.3896 for $38348
+  Net Gain/Loss: $-1014.39
+
+Trans #114:   ARG
+  Bought:   1/8/2014, 360 shares at $106.49 for $38345.4
+  Sold:      1/24/2014 at $106.087 for $38182.2
+  Net Gain/Loss: $-163.148
+
+Trans #115:   TXN
+  Bought:  1/27/2014, 951 shares at $40.1523 for $38193.8
+  Sold:       2/4/2014 at $39.2693 for $37336.1
+  Net Gain/Loss: $-857.734
+
+Trans #116:   MYL
+  Bought:   2/5/2014, 859 shares at $43.44 for $37324
+  Sold:       3/6/2014 at $55.484 for $47651.8
+  Net Gain/Loss: $10327.8
+
+Trans #117:   COG
+  Bought:   3/7/2014, 1365 shares at $34.9266 for $47683.8
+  Sold:      3/14/2014 at $34.0236 for $46433.2
+  Net Gain/Loss: $-1250.68
+
+Trans #118:   MYL
+  Bought:  3/17/2014, 867 shares at $53.52 for $46410.8
+  Sold:      3/21/2014 at $52.283 for $45320.4
+  Net Gain/Loss: $-1090.48
+
+Trans #119:   CLX
+  Bought:  3/24/2014, 537 shares at $84.3515 for $45305.7
+  Sold:       5/5/2014 at $85.7825 for $46056.2
+  Net Gain/Loss: $750.474
+
+Trans #120:   BAX
+  Bought:   5/6/2014, 637 shares at $72.2781 for $46050.1
+  Sold:      6/30/2014 at $71.5125 for $45544.5
+  Net Gain/Loss: $-505.674
+
+Trans #121:   TXN
+  Bought:   7/1/2014, 984 shares at $46.2876 for $45556
+  Sold:      7/25/2014 at $45.6397 for $44900.5
+  Net Gain/Loss: $-655.507
+
+Trans #122:   BAX
+  Bought:  7/28/2014, 597 shares at $75.2532 for $44935.1
+  Sold:       8/7/2014 at $72.9956 for $43569.3
+  Net Gain/Loss: $-1365.78
+
+Trans #123:   TXN
+  Bought:   8/8/2014, 978 shares at $44.5094 for $43539.2
+  Sold:      10/1/2014 at $45.6436 for $44630.4
+  Net Gain/Loss: $1091.25
+
+Trans #124:   MYL
+  Bought:  10/3/2014, 888 shares at $50.23 for $44613.2
+  Sold:     10/10/2014 at $49.6931 for $44118.5
+  Net Gain/Loss: $-494.767
+
+Trans #125:    WU
+  Bought: 10/13/2014, 2947 shares at $14.9812 for $44158.7
+  Sold:     12/10/2014 at $17.4306 for $51359.1
+  Net Gain/Loss: $7200.43
+
+Trans #126:   HAS
+  Bought: 12/15/2014, 943 shares at $54.4244 for $51331.2
+  Sold:     12/19/2014 at $54.8206 for $51686.9
+  Net Gain/Loss: $355.684
+
+Trans #127:   CLX
+  Bought: 12/22/2014, 505 shares at $102.294 for $51667.5
+  Sold:      1/30/2015 at $104.773 for $52901.2
+  Net Gain/Loss: $1233.68
+
+Trans #128:   ARG
+  Bought:   2/2/2015, 467 shares at $113.201 for $52874.1
+  Sold:      3/10/2015 at $114.345 for $53389.9
+  Net Gain/Loss: $515.836
+
+Trans #129:   TXN
+  Bought:  3/11/2015, 960 shares at $55.6584 for $53441.1
+  Sold:      3/25/2015 at $55.9813 for $53733
+  Net Gain/Loss: $291.919
+
+Trans #130:    WU
+  Bought:  3/26/2015, 2843 shares at $18.9021 for $53747.7
+  Sold:       4/6/2015 at $19.7723 for $56203.8
+  Net Gain/Loss: $2456.09
+
+Trans #131:  INTC
+  Bought:   4/7/2015, 1842 shares at $30.5078 for $56204.4
+  Sold:       5/6/2015 at $31.657 for $58303.3
+  Net Gain/Loss: $2098.91
+
+Trans #132:   TXN
+  Bought:   5/7/2015, 1101 shares at $52.9555 for $58313
+  Sold:       6/4/2015 at $53.1817 for $58544
+  Net Gain/Loss: $231.027
+
+Trans #133:     A
+  Bought:   6/5/2015, 1464 shares at $39.9832 for $58544.4
+  Sold:      6/29/2015 at $38.9953 for $57080.2
+  Net Gain/Loss: $-1464.18
+
+Trans #134:    EA
+  Bought:  6/30/2015, 858 shares at $66.5 for $57066
+  Sold:      7/23/2015 at $72.5463 for $62235.7
+  Net Gain/Loss: $5169.73
+
+Trans #135:   HAS
+  Bought:  7/24/2015, 795 shares at $78.2344 for $62205.4
+  Sold:       8/3/2015 at $76.9546 for $61169.9
+  Net Gain/Loss: $-1035.45
+
+Trans #136:  INTC
+  Bought:   8/4/2015, 2152 shares at $28.4382 for $61208.1
+  Sold:      8/19/2015 at $28.2994 for $60891.3
+  Net Gain/Loss: $-316.837
+
+Trans #137:   CLX
+  Bought:  8/20/2015, 532 shares at $114.291 for $60811.6
+  Sold:      8/24/2015 at $110.862 for $58969.5
+  Net Gain/Loss: $-1842.08
+
+Trans #138:  ORCL
+  Bought:  8/25/2015, 1679 shares at $35.1634 for $59048.4
+  Sold:       9/1/2015 at $36.0425 for $60506.3
+  Net Gain/Loss: $1457.9
+
+Trans #139:   HAS
+  Bought:   9/2/2015, 821 shares at $73.6159 for $60447.6
+  Sold:      9/17/2015 at $76.9084 for $63132.8
+  Net Gain/Loss: $2685.15
+
+Trans #140:    EA
+  Bought:  9/18/2015, 901 shares at $70.07 for $63142.1
+  Sold:      9/28/2015 at $68.4626 for $61675.8
+  Net Gain/Loss: $-1466.27
+
+Trans #141:   CLX
+  Bought:  9/29/2015, 545 shares at $113.145 for $61673
+  Sold:      11/9/2015 at $121.183 for $66035.6
+  Net Gain/Loss: $4362.59
+
+Trans #142:     A
+  Bought: 11/10/2015, 1744 shares at $37.8758 for $66064.4
+  Sold:     11/13/2015 at $36.7395 for $64064.8
+  Net Gain/Loss: $-1999.66
+
+Trans #143:   TDC
+  Bought: 11/16/2015, 2430 shares at $26.37 for $64088.1
+  Sold:      12/3/2015 at $29.7111 for $72189
+  Net Gain/Loss: $8100.87
+
+Trans #144:  ORCL
+  Bought:  12/4/2015, 1851 shares at $38.9964 for $72191.3
+  Sold:     12/11/2015 at $37.8265 for $70007.8
+  Net Gain/Loss: $-2183.47
+
+Trans #145:   MYL
+  Bought: 12/14/2015, 1311 shares at $53.37 for $69977.1
+  Sold:       1/4/2016 at $53.6216 for $70288.9
+  Net Gain/Loss: $311.848
+
+Trans #146:  INTC
+  Bought:   1/5/2016, 2097 shares at $33.5328 for $70327.4
+  Sold:       1/7/2016 at $32.5269 for $68199.8
+  Net Gain/Loss: $-2127.55
+
+Trans #147:   TDC
+  Bought:   1/8/2016, 2905 shares at $23.47 for $68189.3
+  Sold:      1/13/2016 at $22.7659 for $66125.9
+  Net Gain/Loss: $-2063.41
+
+STATS 
+Started on 1/25/2008 with $5000
+Finished on 1/25/2016 with $66140.4
+Net Gain: 61140.4
+ROI: 1222.81%	
